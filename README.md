@@ -15,3 +15,5 @@ The goal of this project is to empower you to contribute code to open source pro
 
 Jump right in and fix issue [#1](https://github.com/danthareja/contribute-to-open-source/issues/1).
 
+Also don't forget to take short breaks .. Ciao!!
+
